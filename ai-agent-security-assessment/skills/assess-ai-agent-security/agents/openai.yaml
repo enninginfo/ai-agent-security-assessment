@@ -1,0 +1,8 @@
+interface:
+  display_name: "Assess AI Agent Security"
+  short_description: "Assess agent risks and test permission boundaries"
+  default_prompt: "Use $assess-ai-agent-security to assess my AI agent, verify its claims, and plan controlled security tests."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
